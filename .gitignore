@@ -1,0 +1,12 @@
+# Security
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Node Modules
+node_modules/
+
+# Mac System Files
+.DS_Store
